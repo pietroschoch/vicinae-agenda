@@ -1,0 +1,10 @@
+{
+  "commands": [
+    {
+      "name": "Agenda (7 dias)",
+      "title": "Agenda (7 dias)",
+      "mode": "view",
+      "entry": "src/agenda-7d.tsx"
+    }
+  ]
+}
